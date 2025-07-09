@@ -8,7 +8,7 @@ import {
   MapPin,
   Link,
 } from "lucide-react";
-import Footer from "@/components/Footer";
+
 import Image from "next/image";
 import Nail from "@/images/nail.jpg";
 import Links from "next/link";
@@ -208,7 +208,6 @@ export default function HomePage() {
       </section>
 
       {/* Footer */}
-      <Footer />
     </div>
   );
 }
