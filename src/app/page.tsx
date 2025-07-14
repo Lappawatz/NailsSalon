@@ -6,7 +6,7 @@ import {
   Instagram,
   Facebook,
   MapPin,
-  Link,
+  
 } from "lucide-react";
 
 import Image from "next/image";
@@ -207,7 +207,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Footer */}
+      
     </div>
   );
 }
